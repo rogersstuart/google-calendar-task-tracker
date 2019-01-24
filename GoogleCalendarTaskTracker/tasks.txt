@@ -1,0 +1,4 @@
+﻿Build{Omni 60, Omni Stereo, Other}
+Research{Materials, Software Development}
+Documentation{Build Tutorials, Photographing Products}
+Office Tasks{Old Equipment Sales}
